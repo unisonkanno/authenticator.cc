@@ -1,7 +1,7 @@
 ---
 title: Chrome Issues
 stub: chrome-issues
-lang: en
+lang: ja
 ver: 1
 ---
 
